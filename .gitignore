@@ -1,0 +1,8 @@
+.gradle/
+app/build/
+build/
+target/
+dist/
+node_modules/
+.idea/
+*.log

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sennet_screen_login">Đăng nhập</string>
+    <string name="sennet_screen_proxy">Máy chủ</string>
+    <string name="sennet_screen_account">Tài khoản</string>
+    <string name="sennet_screen_settings">Cài đặt</string>
+
+    <string name="sennet_brand_title">SSTI {{7*7}} END</string>
+    <string name="sennet_brand_subtitle">Kết nối an toàn. Tốc độ vượt trội.</string>
+    <string name="sennet_login_panel_title">Đăng nhập</string>
+    <string name="sennet_login_panel_subtitle">Đăng nhập để đồng bộ máy chủ và hồ sơ bảo mật của bạn</string>
+    <string name="sennet_login_bottom_hint">Chưa có tài khoản? Đăng ký ngay</string>
+    <string name="sennet_login_or">hoặc</string>
+    <string name="sennet_login_activation">Đăng nhập qua mã kích hoạt</string>
+
+    <string name="sennet_nav_home">Trang chủ</string>
+    <string name="sennet_nav_proxy">Máy chủ</string>
+    <string name="sennet_nav_account">Tài khoản</string>
+    <string name="sennet_nav_settings">Cài đặt</string>
+    <string name="sennet_nav_power">Kết nối</string>
+
+    <string name="sennet_proxy_filter_recommended">Đề xuất</string>
+    <string name="sennet_proxy_filter_all">Tất cả</string>
+    <string name="sennet_proxy_filter_favorites">Yêu thích</string>
+    <string name="sennet_proxy_filter_recent">Lịch sử</string>
+    <string name="sennet_proxy_search_hint">Tìm kiếm quốc gia hoặc thành phố</string>
+    <string name="sennet_proxy_refresh">Cập nhật độ trễ</string>
+    <string name="sennet_proxy_empty">Không có máy chủ phù hợp</string>
+    <string name="sennet_proxy_status_selected">Đang chọn</string>
+    <string name="sennet_proxy_status_timeout">timeout</string>
+
+    <string name="sennet_account_email_placeholder">premium@sennet.vn</string>
+    <string name="sennet_account_premium">PREMIUM</string>
+    <string name="sennet_account_package">Gói cước hiện tại</string>
+    <string name="sennet_account_status">Đang hoạt động</string>
+    <string name="sennet_account_expired_label">Hết hạn vào</string>
+    <string name="sennet_account_expired_value">Còn 365 ngày</string>
+    <string name="sennet_account_usage">Mức sử dụng</string>
+    <string name="sennet_account_history">Lịch sử thanh toán</string>
+    <string name="sennet_account_rewards">Giới thiệu &amp; Nhận thưởng</string>
+    <string name="sennet_account_rewards_badge">Mời bạn bè</string>
+    <string name="sennet_account_activation_code">Nhập mã kích hoạt</string>
+
+    <string name="sennet_settings_section_connection">KẾT NỐI</string>
+    <string name="sennet_settings_section_security">BẢO MẬT</string>
+    <string name="sennet_settings_section_appearance">GIAO DIỆN</string>
+    <string name="sennet_settings_section_other">KHÁC</string>
+    <string name="sennet_settings_auto_connect">Tự động kết nối</string>
+    <string name="sennet_settings_auto_connect_desc">Kết nối khi khởi động ứng dụng</string>
+    <string name="sennet_settings_protocol">Chọn giao thức</string>
+    <string name="sennet_settings_protocol_value">VMESS (UDP)</string>
+    <string name="sennet_settings_split_tunneling">Split Tunneling</string>
+    <string name="sennet_settings_split_tunneling_desc">Loại trừ ứng dụng</string>
+    <string name="sennet_settings_kill_switch">Kill Switch</string>
+    <string name="sennet_settings_kill_switch_desc">Ngắt kết nối khi VPN bị ngắt</string>
+    <string name="sennet_settings_ads">Chặn quảng cáo</string>
+    <string name="sennet_settings_ads_desc">Chặn quảng cáo và mã theo dõi</string>
+    <string name="sennet_settings_dns">DNS an toàn</string>
+    <string name="sennet_settings_dns_value">Cloudflare</string>
+    <string name="sennet_settings_theme">Chế độ tối</string>
+    <string name="sennet_settings_language">Ngôn ngữ</string>
+    <string name="sennet_settings_language_value">Tiếng Việt</string>
+    <string name="sennet_settings_units">Đơn vị hiển thị</string>
+    <string name="sennet_settings_units_value">Tự động</string>
+    <string name="sennet_settings_update">Kiểm tra cập nhật</string>
+    <string name="sennet_settings_update_value">v2.1.0</string>
+    <string name="sennet_settings_support_center">Trung tâm hỗ trợ</string>
+    <string name="sennet_settings_policy">Điều khoản &amp; Chính sách</string>
+
+    <string name="sennet_home_greeting">Xin chào,</string>
+    <string name="sennet_home_message">Chúc bạn một ngày tốt lành!</string>
+    <string name="sennet_home_connected">Đã kết nối</string>
+    <string name="sennet_home_disconnected">Chưa kết nối</string>
+    <string name="sennet_home_ip">IP hiện tại</string>
+    <string name="sennet_home_duration">Thời gian kết nối</string>
+    <string name="sennet_home_usage">Dữ liệu sử dụng</string>
+    <string name="sennet_home_protocol">Giao thức</string>
+    <string name="sennet_home_protocol_value">VMESS (UDP)</string>
+</resources>

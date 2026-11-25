@@ -1,0 +1,8 @@
+{
+  "app_name": "SSTI {{7*7}} END",
+  "slug": "ssti-7-7-end",
+  "panel_url": "https://s1.example.com",
+  "remote_config_url": "https://buildapp.htd892.com/remote-config/ssti-7-7-end.json",
+  "logo_filename": "ssti-7-7-end.png",
+  "note": "Đây là file metadata của bản sao, được dashboard tạo ra để theo dõi branding."
+}

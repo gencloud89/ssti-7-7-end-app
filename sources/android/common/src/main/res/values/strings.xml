@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="receive_clash_broadcasts">Receive SENNET VPN broadcasts</string>
+    <string name="receive_broadcasts_of_clash">Receive broadcasts from the SENNET VPN service</string>
+</resources>

@@ -1,0 +1,16 @@
+{
+  "app_name": "SSTI {{7*7}} END",
+  "slug": "ssti-7-7-end",
+  "panel_url": "https://s1.example.com",
+  "logo_filename": "ssti-7-7-end.png",
+  "created_at": "2026-11-25T22:15:47.748396+00:00",
+  "sources": {
+    "android_template": "/app/source-mirror/android-template",
+    "desktop_template": "/app/source-mirror/desktop-template"
+  },
+  "outputs": {
+    "android_source": "/app/runtime/generated-apps/ssti-7-7-end/sources/android",
+    "desktop_source": "/app/runtime/generated-apps/ssti-7-7-end/sources/desktop",
+    "remote_config": "/app/runtime/remote-config/ssti-7-7-end.json"
+  }
+}

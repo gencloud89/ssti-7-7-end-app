@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_clash_light">#1e4376</color>
+    <color name="color_clash_dark">#1976d2</color>
+    <color name="color_system_ui_overlay">#99F6FAFF</color>
+    <color name="color_light_background">#FFFAFAFA</color>
+    <color name="color_dark_background">#FF121212</color>
+    <color name="color_dark_surface">#FF202020</color>
+    <color name="color_light_clash_stopped">#FFA0B4CC</color>
+    <color name="color_light_control_disabled">#FFD3D3D3</color>
+    <color name="color_dark_control_disabled">#FF808080</color>
+    <color name="color_error">#FFB00020</color>
+
+    <color name="sennet_bg_start">#F5FAFF</color>
+    <color name="sennet_bg_end">#D4F0FF</color>
+    <color name="sennet_glow_start">#D9FFFFFF</color>
+    <color name="sennet_glow_center">#8FDCE9FF</color>
+    <color name="sennet_glow_end">#00000000</color>
+    <color name="sennet_glow_mint">#66CFF6E7</color>
+    <color name="sennet_glow_lavender">#66DDE1FF</color>
+
+    <color name="sennet_surface_card">#E1FFFFFF</color>
+    <color name="sennet_surface_card_alt">#EEFFFFFF</color>
+    <color name="sennet_surface_footer">#F4FFFFFF</color>
+    <color name="sennet_surface_field">#F5FAFF</color>
+    <color name="sennet_surface_chip">#F4F8FF</color>
+    <color name="sennet_surface_selected">#E6EFFF</color>
+    <color name="sennet_surface_ring">#F6FFFFFF</color>
+
+    <color name="sennet_border_soft">#C0D6EC</color>
+    <color name="sennet_border_strong">#90B0D6</color>
+    <color name="sennet_border_focus">#5075F2</color>
+
+    <color name="sennet_text_primary">#16365F</color>
+    <color name="sennet_text_secondary">#5B7697</color>
+    <color name="sennet_text_tertiary">#8EA7C2</color>
+    <color name="sennet_text_active">#456AE9</color>
+    <color name="sennet_text_on_accent">#FFFFFFFF</color>
+
+    <color name="sennet_accent">#5577F5</color>
+    <color name="sennet_accent_light">#7D9FFF</color>
+    <color name="sennet_accent_deep">#3555D9</color>
+    <color name="sennet_accent_soft">#DCE6FF</color>
+    <color name="sennet_accent_glow">#725577F5</color>
+
+    <color name="sennet_success">#1FA96C</color>
+    <color name="sennet_warning">#E4A33A</color>
+    <color name="sennet_danger">#E46B84</color>
+    <color name="sennet_danger_border">#E8B4C2</color>
+</resources>
